@@ -59,29 +59,6 @@ Frontend Developer specializing in **React.js**, **Next.js**, and **JavaScript (
 ---
 
 
-### 📄 Portfolio & Certificate
-
-<p style="text-align: center;">
-  <a href="https://yourportfolio.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios/452/portfolio.png" alt="Portfolio" style="width: 40px; height: 40px; margin-bottom: 5px;" />
-    <span style="display: block; font-size: 16px;">Portfolio</span>
-  </a>
-</p>
-
-<p style="text-align: center;">
-  <a href="https://yourcertificate.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios/452/certificate.png" alt="Certificate" style="width: 40px; height: 40px; margin-bottom: 5px;" />
-    <span style="display: block; font-size: 16px;">Certificate</span>
-  </a>
-</p>
-
-<p style="text-align: center;">
-  <a href="https://yourcv.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios/452/resume.png" alt="Resume" style="width: 40px; height: 40px; margin-bottom: 5px;" />
-    <span style="display: block; font-size: 16px;">Resume</span>
-  </a>
-</p>
-
 
 
 
