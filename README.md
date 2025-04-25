@@ -55,3 +55,11 @@ Frontend Developer specializing in **React.js**, **Next.js**, and **JavaScript (
     <img src="https://img.shields.io/badge/UpWork-6A4C93?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a> -->
 </p>
+
+
+### 📄 Portfolio & Certificate
+
+- [Click here to see my portfolio](https://yourportfolio.com)
+- [Click here to see my certificate](https://yourcertificate.com)
+
+
