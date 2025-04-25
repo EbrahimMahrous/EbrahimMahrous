@@ -1,7 +1,7 @@
 <!-- Animated Typing Header -->
 <h1 align="center">Hi there, I'm Ibrahim Mahrous 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript+%28ES6%2B%29;Clean+Code+%7C+UI%2FUX+Focus" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Frontend+Developer;React.js;Next.js;JavaScript+%28ES6%2B%29;Clean+Code;UI%2FUX+Focus" alt="Typing SVG" />
 </p>
 
 ---
@@ -51,4 +51,3 @@ Frontend Developer specializing in **React.js**, **Next.js**, and **JavaScript (
     <img src="https://img.shields.io/badge/UpWork-6A4C93?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a> -->
 </p>
-
