@@ -64,53 +64,25 @@ Frontend Developer specializing in **React.js**, **Next.js**, and **JavaScript (
 - [Click here to see my portfolio](https://yourportfolio.com)
 - [Click here to see my certificate](https://yourcertificate.com)
 
-<a href="https://yourportfolio.com" target="_blank">
-  <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; font-size: 16px;">
-    View My Portfolio
-  </button>
-</a>
+<p align="center">
+  <a href="https://yourportfolio.com" target="_blank">
+    <button style="background-color: #007BFF; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer; transition: background-color 0.3s ease;">
+      View My Portfolio
+    </button>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://yourcertificate.com" target="_blank">
+    <button style="background-color: #28a745; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer; transition: background-color 0.3s ease;">
+      View My Certificate
+    </button>
+  </a>
+</p>
 
 
-<a href="https://yourportfolio.com" target="_blank">
-  <i class="fa fa-briefcase"></i> View My Portfolio
-</a>
-
-<a href="https://yourcertificate.com" target="_blank">
-  <i class="fa fa-certificate"></i> View My Certificate
-</a>
 
 
 
-
-<a href="https://yourcertificate.com" target="_blank">
-  <button style="padding: 10px 20px; background-color: #008CBA; color: white; border: none; border-radius: 5px; font-size: 16px;">
-    View My Certificate
-  </button>
-</a>
-
-<a href="https://yourportfolio.com" target="_blank" class="button-link">
-  View My Portfolio
-</a>
-
-<a href="https://yourcertificate.com" target="_blank" class="button-link">
-  View My Certificate
-</a>
-
-<style>
-  .button-link {
-    display: inline-block;
-    padding: 12px 25px;
-    background-color: #4CAF50;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    font-size: 16px;
-    transition: background-color 0.3s ease;
-  }
-
-  .button-link:hover {
-    background-color: #45a049;
-  }
-</style>
 
 
