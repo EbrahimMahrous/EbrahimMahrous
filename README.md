@@ -23,9 +23,9 @@ Frontend Developer specializing in **React.js**, **Next.js**, and **JavaScript (
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/ibrahimmahrous" target="_blank">
+<!--   <a href="https://twitter.com/ibrahimmahrous" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="https://linkedin.com/in/ibrahimmahrous" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -38,17 +38,17 @@ Frontend Developer specializing in **React.js**, **Next.js**, and **JavaScript (
   <a href="https://instagram.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/yourchannel" target="_blank">
+<!--   <a href="https://youtube.com/yourchannel" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://behance.net/yourprofile" target="_blank">
+  </a> -->
+<!--   <a href="https://behance.net/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
-  </a>
-  <a href="https://mostaql.com/yourprofile" target="_blank">
+  </a> -->
+<!--   <a href="https://mostaql.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/Mostaql-0082FF?style=for-the-badge&logo=appveyor&logoColor=white"/>
-  </a>
-  <a href="https://upwork.com/yourprofile" target="_blank">
+  </a> -->
+<!--   <a href="https://upwork.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/UpWork-6A4C93?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
 
