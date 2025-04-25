@@ -61,7 +61,6 @@ Frontend Developer specializing in **React.js**, **Next.js**, and **JavaScript (
 
 ### 📄 Portfolio & Certificate
 
-<p align="center">
   <a href="https://yourportfolio.com" target="_blank">
     <button style="background-color: #007BFF; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer; transition: background-color 0.3s ease;">
       View My Portfolio
@@ -76,7 +75,6 @@ Frontend Developer specializing in **React.js**, **Next.js**, and **JavaScript (
     </button>
   </a>
 </p>
-
 
 
 
