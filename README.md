@@ -11,7 +11,7 @@ Tired of slow, clunky websites?
 I help teams build lightning-fast, accessible, and pixel-perfect web apps that users actually enjoy.
 <br/>
 Frontend Developer specializing in **React.js**, **Next.js**, and **JavaScript (ES6+)**, with a proven ability to build responsive, high-performance web applications. Experienced in developing scalable, reusable components and optimizing user interfaces. Proficient in **HTML5**, **CSS3**, and responsive design. Skilled in state management with **Redux** and **Context API**, and experienced with integrating **RESTful APIs**. Well-versed in version control using **Git** and ensuring cross-browser and cross-platform compatibility.
-
+<br />
 ---
 
 ### 🛠️ Tools & Technologies
