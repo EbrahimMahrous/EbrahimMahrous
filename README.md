@@ -56,6 +56,8 @@ Frontend Developer specializing in **React.js**, **Next.js**, and **JavaScript (
   </a> -->
 </p>
 
+---
+
 
 ### 📄 Portfolio & Certificate
 
