@@ -61,21 +61,36 @@ Frontend Developer specializing in **React.js**, **Next.js**, and **JavaScript (
 
 ### 📄 Portfolio & Certificate
 
+<p align="center">
   <a href="https://yourportfolio.com" target="_blank">
-    <button style="background-color: #007BFF; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer; transition: background-color 0.3s ease;">
-      View My Portfolio
-    </button>
+    <img src="https://img.icons8.com/ios/452/portfolio.png" alt="Portfolio" class="icon-animation"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://yourcertificate.com" target="_blank">
-    <button style="background-color: #28a745; color: white; border: none; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer; transition: background-color 0.3s ease;">
-      View My Certificate
-    </button>
+    <img src="https://img.icons8.com/ios/452/certificate.png" alt="Certificate" class="icon-animation"/>
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ibrahimmahrous" target="_blank">
+    <img src="https://img.icons8.com/ios/452/github.png" alt="GitHub" class="icon-animation"/>
+  </a>
+</p>
+
+<style>
+  .icon-animation {
+    width: 50px;
+    height: 50px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+
+  .icon-animation:hover {
+    transform: scale(1.2); /* تكبير الأيقونة عند التمرير */
+    opacity: 0.8; /* تقليل الشفافية قليلاً */
+  }
+</style>
 
 
 
