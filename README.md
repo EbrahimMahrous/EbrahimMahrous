@@ -1,5 +1,5 @@
 <!-- Animated Typing Header -->
-<h1 align="center">Awesome, I'm Ibrahim Mahrous 📌🧑🏻‍💻☕🎩 </h1>
+<h1 align="center">Awesome, I'm Ibrahim Mahrous 🧑🏻‍💻☕ </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&speed=20&lines=Frontend+Developer;HTML5+%26+CSS3;+Responsive+Design;React.js;Next.js;JavaScript+%28ES6%2B%29;Git;RESTful+APIs;User+Interface;User+Experience+Design;Ensuring+Consistency+Across+Platforms;Jest;+React+Testing+Library;+Performance+Optimization" alt="Typing SVG" />
 </p>
