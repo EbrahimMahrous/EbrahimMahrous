@@ -32,4 +32,23 @@ Frontend Developer specializing in **React.js**, **Next.js**, and **JavaScript (
   <a href="mailto:ibrahim@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://facebook.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://behance.net/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+  </a>
+  <a href="https://mostaql.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Mostaql-0082FF?style=for-the-badge&logo=appveyor&logoColor=white"/>
+  </a>
+  <a href="https://upwork.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/UpWork-6A4C93?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
 </p>
+
