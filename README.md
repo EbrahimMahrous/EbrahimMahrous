@@ -61,54 +61,28 @@ Frontend Developer specializing in **React.js**, **Next.js**, and **JavaScript (
 
 ### 📄 Portfolio & Certificate
 
-<p align="center">
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.icons8.com/ios/452/portfolio.png" alt="Portfolio" class="icon-animation" />
-    <span>Portfolio</span>
+<p style="text-align: center;">
+  <a href="https://yourportfolio.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios/452/portfolio.png" alt="Portfolio" style="width: 40px; height: 40px; margin-bottom: 5px;" />
+    <span style="display: block; font-size: 16px;">Portfolio</span>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://yourcertificate.com" target="_blank">
-    <img src="https://img.icons8.com/ios/452/certificate.png" alt="Certificate" class="icon-animation" />
-    <span>Certificate</span>
+<p style="text-align: center;">
+  <a href="https://yourcertificate.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios/452/certificate.png" alt="Certificate" style="width: 40px; height: 40px; margin-bottom: 5px;" />
+    <span style="display: block; font-size: 16px;">Certificate</span>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://yourcv.com" target="_blank">
-    <img src="https://img.icons8.com/ios/452/resume.png" alt="Resume" class="icon-animation" />
-    <span>Resume</span>
+<p style="text-align: center;">
+  <a href="https://yourcv.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios/452/resume.png" alt="Resume" style="width: 40px; height: 40px; margin-bottom: 5px;" />
+    <span style="display: block; font-size: 16px;">Resume</span>
   </a>
 </p>
 
-<style>
-  .icon-animation {
-    width: 60px;
-    height: 60px;
-    margin-bottom: 8px;
-    transition: transform 0.3s ease, opacity 0.3s ease, box-shadow 0.3s ease;
-  }
 
-  .icon-animation:hover {
-    transform: scale(1.2); /* تكبير الأيقونة */
-    opacity: 0.8; /* تقليل الشفافية */
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* إضافة ظل عند التمرير */
-  }
-
-  span {
-    display: block;
-    color: #333;
-    font-size: 14px;
-    text-align: center;
-    margin-top: 5px;
-    font-weight: bold;
-  }
-
-  a {
-    text-decoration: none;
-  }
-</style>
 
 
 
