@@ -63,34 +63,53 @@ Frontend Developer specializing in **React.js**, **Next.js**, and **JavaScript (
 
 <p align="center">
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.icons8.com/ios/452/portfolio.png" alt="Portfolio" class="icon-animation"/>
+    <img src="https://img.icons8.com/ios/452/portfolio.png" alt="Portfolio" class="icon-animation" />
+    <span>Portfolio</span>
   </a>
 </p>
 
 <p align="center">
   <a href="https://yourcertificate.com" target="_blank">
-    <img src="https://img.icons8.com/ios/452/certificate.png" alt="Certificate" class="icon-animation"/>
+    <img src="https://img.icons8.com/ios/452/certificate.png" alt="Certificate" class="icon-animation" />
+    <span>Certificate</span>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ibrahimmahrous" target="_blank">
-    <img src="https://img.icons8.com/ios/452/github.png" alt="GitHub" class="icon-animation"/>
+  <a href="https://yourcv.com" target="_blank">
+    <img src="https://img.icons8.com/ios/452/resume.png" alt="Resume" class="icon-animation" />
+    <span>Resume</span>
   </a>
 </p>
 
 <style>
   .icon-animation {
-    width: 50px;
-    height: 50px;
-    transition: transform 0.3s ease, opacity 0.3s ease;
+    width: 60px;
+    height: 60px;
+    margin-bottom: 8px;
+    transition: transform 0.3s ease, opacity 0.3s ease, box-shadow 0.3s ease;
   }
 
   .icon-animation:hover {
-    transform: scale(1.2); /* تكبير الأيقونة عند التمرير */
-    opacity: 0.8; /* تقليل الشفافية قليلاً */
+    transform: scale(1.2); /* تكبير الأيقونة */
+    opacity: 0.8; /* تقليل الشفافية */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* إضافة ظل عند التمرير */
+  }
+
+  span {
+    display: block;
+    color: #333;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 5px;
+    font-weight: bold;
+  }
+
+  a {
+    text-decoration: none;
   }
 </style>
+
 
 
 
