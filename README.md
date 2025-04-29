@@ -30,16 +30,16 @@ Frontend Developer specializing in **React.js**, **Next.js**, and **JavaScript (
 <!--   <a href="https://twitter.com/ibrahimmahrous" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a> -->
-  <a href="https://linkedin.com/in/ibrahimmahrous" target="_blank">
+  <a href="https://www.linkedin.com/in/ibrahim-mahrous" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ibrahim@example.com">
+  <a href="mailto:ebraheemalimahrous000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100009411936220" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
+  <a href="https://www.instagram.com/ebraheem_mahrous_2003/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 <!--   <a href="https://youtube.com/yourchannel" target="_blank">
